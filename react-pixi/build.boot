@@ -9,7 +9,7 @@
          '[clojure.java.io :as io]
          '[boot.util :refer [sh *sh-dir*]])
 
-(def +lib-version+ "0.8.1")
+(def +lib-version+ "0.8.2")
 (def +version+ (str +lib-version+ "-0"))
 (def +lib-folder+ (str "react-pixi-" +lib-version+))
 
